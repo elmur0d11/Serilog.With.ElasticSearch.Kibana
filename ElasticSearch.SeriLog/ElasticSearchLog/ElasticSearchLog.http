@@ -1,0 +1,6 @@
+@ElasticSearchLog_HostAddress = http://localhost:5038
+
+GET {{ElasticSearchLog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
